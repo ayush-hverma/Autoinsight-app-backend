@@ -1,5 +1,8 @@
 {
-    "name": "scraper-backend",
+    "name": "app-backend",
+    "scripts": {
+        "start": "node server.js"
+    },
     "version": "1.0.0",
     "main": "server.js",
     "dependencies": {
